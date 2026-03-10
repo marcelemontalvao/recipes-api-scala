@@ -3,7 +3,7 @@
 ## About this Project
 Hi! I built this project over the weekend as a hands-on way to warm up my local development environment and refresh my Scala and Play Framework knowledge ahead of my technical interview. 
 
-Since Parsley builds tailored solutions for culinary professionals, I decided to model a simplified **Recipe Management domain**. This API allows users to create recipes, list them, filter by dietary restrictions (like Vegan), and dynamically scale ingredient amounts using a multiplier (a common use case for chefs planning different batch sizes).
+This API allows users to create recipes, list them, filter by dietary restrictions (like Vegan), and dynamically scale ingredient amounts using a multiplier (a common use case for chefs planning different batch sizes).
 
 ## Tech Stack
 * **Language:** Scala
